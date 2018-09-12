@@ -1,2 +1,2 @@
 # hello-world
-learn github
+learn github although it was a remedy
